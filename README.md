@@ -55,5 +55,5 @@ Cloud Server is a software program designed to synchronize process execution eff
 > make
 > ./cloud
 ```
-![Quote](https://github.com/kannikakabilar/CloudServer/blob/main/cloud_demo1.png)
-![Quote](https://github.com/kannikakabilar/CloudServer/blob/main/cloud_demo2.png)
+![Quote](https://github.com/kannikakabilar/Medium-Projects/blob/main/CloudServer/cloud_demo1.png)
+![Quote](https://github.com/kannikakabilar/Medium-Projects/blob/main/CloudServer/cloud_demo2.png)
