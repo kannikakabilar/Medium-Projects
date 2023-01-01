@@ -10,21 +10,25 @@ A database system for a transit service that contains a table for passengers, ro
 A hangman game programmed in python using pygame. The game contains visual components to keep the users engaged.
 - To run the file
 Make sure pygame is installed and run hangman.py <br />
-> pip install pygame <br />
+```md
+> pip install pygame
 > python3 hangman.py
+```
 <br />
 <br />
-## KanBatchOS
+## KanBatchOS 
 The Kan Batch OS Model is a Batch Operating System Simulator. Currently, this model supports running batches of Python, C, and, Java program files but it can be easily extended to support the execution of other program files. This simulator is designed to run in a Linux hosted environment as it uses 'ls' command to collect the list of programming files to execute. <br />
 
 - How to Run
 Place your Python, Java, and, C programs in the Jobs directory <br />
 Navigate to kanbatchos directory (ie: cd kanbatchos) and then execute below <br />
-> gcc -o kan kanbatchos.c <br />
+```md
+> gcc -o kan kanbatchos.c
 > ./kan 
+```
 <br />
 <br />
-## SecureFileSender
+## SecureFileSender 
 SecureFileSender is a software that allows users to safely send files to different computers. The program utilizes private and public keys from the RSA algorithm to encrypt and decrypt the transferring files. The program also uses python sockets to transfer the files from sender to receiver.
 
 - Requirements
@@ -49,7 +53,7 @@ Execute the above commands in terminal and enter user inputs as prompted. The be
 
 <br />
 <br />
-## CloudServer
+## CloudServer 
 Cloud Server is a software program designed to synchronize process execution efficiently (simulating a cloud environment). The program utilizes CPU scheduling algorithms in a multi-level feedback queue which allows it order processes to execute with the least amount of response and wait time. <br />
 
 - How to Run
