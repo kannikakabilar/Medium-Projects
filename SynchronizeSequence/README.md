@@ -8,4 +8,4 @@ Navigate to the repository where the program is located
 > ./syncseq
 ```
 Execute the above commands in terminal and enter user inputs as prompted. The below image illustrates a demonstration. <br />
-![Quote](https://github.com/kannikakabilar/SynchronizeSequence/blob/main/Screen%20Shot%202022-04-15%20at%207.46.52%20PM.png)
+![Quote](https://raw.githubusercontent.com/kannikakabilar/Medium-Projects/main/SynchronizeSequence/Screen%20Shot%202022-04-15%20at%207.46.52%20PM.png)
