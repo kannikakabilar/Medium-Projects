@@ -1,5 +1,5 @@
 # Medium-Projects
-This repo contains a collection of medium-sized projects in Python, C, and MySQL.
+This repo contains a collection of medium-sized projects in Python, C, MySQL, and JavaScript-React.
 <br />
 <br />
 ## Public Transit Transportation Database System
@@ -57,3 +57,9 @@ Cloud Server is a software program designed to synchronize process execution eff
 ```
 ![Quote](https://github.com/kannikakabilar/Medium-Projects/blob/main/CloudServer/cloud_demo1.png)
 ![Quote](https://github.com/kannikakabilar/Medium-Projects/blob/main/CloudServer/cloud_demo2.png)
+
+## ChatGPT-React
+A ChatGPT application built using React for frontend and NodeJS with Express framework for backend.
+- The server communicates with the advanced GPT3 model API
+- Elegant and responsive User Interface that enhances the ChatGPT app
+- server.js can be modified to chat with any of OpenAI's trained models with a wide range of frequencies
