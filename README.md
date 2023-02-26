@@ -1,5 +1,5 @@
 # Medium-Projects
-This repo contains a collection of medium-sized projects in Python, C, MySQL, and JavaScript-React.
+This repo contains a collection of medium-sized projects in Python, C, MySQL, JavaScript-React, and JavaScript-Angular.
 <br />
 <br />
 ## Public Transit Transportation Database System
