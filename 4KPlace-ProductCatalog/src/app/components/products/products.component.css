@@ -1,0 +1,12 @@
+body{
+    background: url(../../../assets/peach.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.title{
+    color: #0b04e0;
+    text-align: center;
+}

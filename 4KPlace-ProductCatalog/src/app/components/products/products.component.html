@@ -1,0 +1,9 @@
+<!-- <p *ngFor="let product of products">{{ product.name }}</p> -->
+<body>
+<h1 class="title">4KPlace - Product Catalog</h1>
+<mat-grid-list cols="3" rowHeight="500px">
+    <mat-grid-tile *ngFor="let product of products">
+        <app-product [product]="product"></app-product>
+    </mat-grid-tile>
+</mat-grid-list>
+</body>
