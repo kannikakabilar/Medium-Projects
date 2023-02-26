@@ -63,3 +63,7 @@ A ChatGPT application built using React for frontend and NodeJS with Express fra
 - The server communicates with the advanced GPT3 model API
 - Elegant and responsive User Interface that enhances the ChatGPT app
 - server.js can be modified to chat with any of OpenAI's trained models with a wide range of frequencies
+
+## 4KPlace - Product Catalog - Angular15
+A product catalog webpage coded using Angular15 for its frontend framework. 
+![Quote](https://github.com/kannikakabilar/Medium-Projects/blob/main/4KPlace-ProductCatalog/Screen%20Shot%202023-02-26%20at%205.20.48%20PM.png)
