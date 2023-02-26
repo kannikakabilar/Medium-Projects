@@ -66,4 +66,10 @@ A ChatGPT application built using React for frontend and NodeJS with Express fra
 
 ## 4KPlace - Product Catalog - Angular15
 A product catalog webpage coded using Angular15 for its frontend framework. 
+- How to run
+Open terminal and navigate (cd) to where the project is cloned/downloaded
+```md
+> npm install --legacy-peer-deps
+> ng serve
+```
 ![Quote](https://github.com/kannikakabilar/Medium-Projects/blob/main/4KPlace-ProductCatalog/Screen%20Shot%202023-02-26%20at%205.20.48%20PM.png)
