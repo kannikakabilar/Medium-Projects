@@ -73,3 +73,11 @@ Open terminal and navigate (cd) to where the project is cloned/downloaded
 > ng serve
 ```
 ![Quote](https://github.com/kannikakabilar/Medium-Projects/blob/main/4KPlace-ProductCatalog/Screen%20Shot%202023-02-26%20at%205.20.48%20PM.png)
+
+## NodeApp
+An application to experiment node.js and expressjs functionalities
+- How to run
+Open terminal and navigate (cd) to where the project is cloned/downloaded
+```md
+> node index.js (or any other *.js file name)
+```
