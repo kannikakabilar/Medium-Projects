@@ -79,5 +79,6 @@ An application to experiment node.js and expressjs functionalities
 - How to run
 Open terminal and navigate (cd) to where the project is cloned/downloaded
 ```md
+> npm install --legacy-peer-deps
 > node index.js (or any other *.js file name)
 ```
