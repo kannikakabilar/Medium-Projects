@@ -21,7 +21,7 @@ The Kan Batch OS Model is a Batch Operating System Simulator. Currently, this mo
 Batch OS executes jobs in batches, so this model reflects the design by grouping files of the same programming language, and executing the collected files all at once.  ie: All Python files will be collected and executed together, then all C files will be collected and executed together and so on. Batch OS does not support interactive programs that require user's input during execution. An image of the model being executed is shown below.
 
 <p align="center">
-  <img alt="Light" src="osp1.png" width="90%">
+  <img alt="Light" src="KanBatchOS/osp1.png" width="90%">
 </p>
 
 - How to Run <br />
