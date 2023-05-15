@@ -14,8 +14,15 @@ Make sure pygame is installed and run hangman.py <br />
 > pip install pygame
 > python3 hangman.py
 ```
-## KanBatchOS 
+## KanBatchOS - Kan Batch OS Model
 The Kan Batch OS Model is a Batch Operating System Simulator. Currently, this model supports running batches of Python, C, and, Java program files but it can be easily extended to support the execution of other program files. This simulator is designed to run in a Linux hosted environment as it uses 'ls' command to collect the list of programming files to execute. <br />
+
+- How it works <br />
+Batch OS executes jobs in batches, so this model reflects the design by grouping files of the same programming language, and executing the collected files all at once.  ie: All Python files will be collected and executed together, then all C files will be collected and executed together and so on. Batch OS does not support interactive programs that require user's input during execution. An image of the model being executed is shown below.
+
+<p align="center">
+  <img alt="Light" src="osp1.png" width="90%">
+</p>
 
 - How to Run <br />
 Place your Python, Java, and, C programs in the Jobs directory <br />
