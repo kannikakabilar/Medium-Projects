@@ -17,7 +17,7 @@ Make sure pygame is installed and run hangman.py <br />
 ## KanBatchOS 
 The Kan Batch OS Model is a Batch Operating System Simulator. Currently, this model supports running batches of Python, C, and, Java program files but it can be easily extended to support the execution of other program files. This simulator is designed to run in a Linux hosted environment as it uses 'ls' command to collect the list of programming files to execute. <br />
 
-- How to Run
+- How to Run <br />
 Place your Python, Java, and, C programs in the Jobs directory <br />
 Navigate to kanbatchos directory (ie: cd kanbatchos) and then execute below <br />
 ```md
@@ -48,6 +48,9 @@ Execute the above commands in terminal and enter user inputs as prompted. The be
 
 ## CloudServer 
 Cloud Server is a software program designed to synchronize process execution efficiently (simulating a cloud environment). The program utilizes CPU scheduling algorithms in a multi-level feedback queue which allows it order processes to execute with the least amount of response and wait time. <br />
+
+- How it works <br />
+The program uses a PCB struct to store information about the process. In order to execute it with the other sets of jobs, a node struct is created to point at the job. This node job is then inserted into the ready queue, which is built using a doubly linked list. The jobs are inserted into the multi-level feedback queue based on their defined priority. When each of theses queues are sent for execution, a thread is created for each job in the queue to execute simultaneously. Mutex locks are used to protect the critical section, preventing race conditions while accessing shared resources. Once job has completed its cpu time and its execution, it is removed from the queue, if it still hasn't completed its execution, it will re-inserted into the queue with its updated attributes. 
 
 - How to Run
 ```md
